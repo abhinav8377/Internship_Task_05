@@ -5,7 +5,7 @@ The objective was to capture live network traffic, identify fundamental protocol
 
 <h2> 📂 Repository Contents </h2>
 
-* **`captured-traffic.pcap`**: The raw network packet capture file generated using Wireshark.
+* **`capture.pcap`**: The raw network packet capture file generated using Wireshark.
 * **`task-5-report.pdf`**: A detailed report summarizing the analysis, including protocols identified, packet examples, and key findings.
 
  <h2>🔑 Key Concepts Covered </h2>
